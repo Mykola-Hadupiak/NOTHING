@@ -31,7 +31,8 @@
 ** **
 * You can easily go to the form and submit your data (webkit is also used here to remove standard autocomplete styles).
 
-![3](https://github.com/Mykola-Hadupiak/NOTHING/assets/114435233/2747fe62-c127-4446-ba78-902abb5ba3e2)
+
+![IMG_3739](https://github.com/Mykola-Hadupiak/NOTHING/assets/114435233/14b9e402-2c37-4e11-88b5-be926c2aab41)
 
 # Demo:
 [DEMO LINK](https://Mykola-Hadupiak.github.io/NOTHING/)
